@@ -10,6 +10,8 @@ It is being developed as task 6.4 of the EU Horizon Project [PERCEIVE](https:per
   - [Flowchart Figjam](https://www.figma.com/file/QxXg5rCsayJl33uvjtHb9k/Codesign-Instructions?type=whiteboard&node-id=0%3A1&t=jhDy391FI8cfcdgc-1)
   - [Initial Draft](https://www.figma.com/file/7BpLfZg4CeUztO7EaopVbO/codesign_toolkit?type=design&node-id=328%3A1030&mode=design&t=F3TLuJ5ny3qwMCfe-1)
   - [Final Draft](https://www.figma.com/file/GoCL33ZH6E04gs64pxc6N8/CardsFinalDesign?type=design&node-id=51%3A1037&mode=design&t=KEEqnRWNG7lIBB8U-1)
-- CoTool is based on a set of cards:
-  - Their content and design is stored in the folder `prototypes`, which contains the different version of CoDesignTool over time
-  - A full list of the cards is available in a [Google Sheet](https://docs.google.com/spreadsheets/d/1I_Bq15Gq8Fw35fu2ujgPBn3OMb2b_dO1/edit?usp=sharing&ouid=110583219287309040014&rtpof=true&sd=true)
+- CoTool is based on a set of cards. A full list of the cards is available in a [Google Sheet](https://docs.google.com/spreadsheets/d/1I_Bq15Gq8Fw35fu2ujgPBn3OMb2b_dO1/edit?usp=sharing&ouid=110583219287309040014&rtpof=true&sd=true)
+
+Cards and boards content and design is stored in the folder `prototypes`, which contains the different version of CoDesignTool over time. 
+
+> The current version is 0.9 ([download CoDesignTool here](prototypes/v0.9/release-0.9))
