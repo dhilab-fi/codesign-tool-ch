@@ -15,3 +15,9 @@ It is being developed as task 6.4 of the EU Horizon Project [PERCEIVE](https:per
 Cards and boards content and design is stored in the folder `prototypes`, which contains the different version of CoDesignTool over time. 
 
 > The current version is 0.9 ([download CoDesignTool here](prototypes/v0.9/release-0.9))
+
+## Reference Publication
+
+To cite this project, please refer to the following publication: 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10986215.svg)](https://doi.org/10.5281/zenodo.10986215)
