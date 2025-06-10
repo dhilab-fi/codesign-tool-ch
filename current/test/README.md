@@ -1,10 +1,5 @@
-The folder contains the forms (in pdf format) and the data yielded during the two evaluation sessions (in Excel file) and it is to be considered as supplementary material for the contribution "The CoDesign Tool. A Card-Based Framework for Interactive
+This folder contains the forms (in pdf format) and the data yielded during the two evaluation sessions (in Excel file) and it is to be considered as supplementary material for the contribution "The CoDesign Tool. A Card-Based Framework for Interactive
 and Collaborative Design in Cultural Heritage" at the [HCI International 2025](https://2025.hci.international/) conference.
 
-Evaluation 2 ($`EV_2`$, April 2024), a comparative assessment of the CoDesign Tool and the VisitorBox:
-- Form
-- Results
-
-Evaluation 3 ($`EV_3`$, April 2025), assessment of the Disruption phase in the CoDesign Tool:
-- Form
-- Results
+- **Evaluation 2** ($`EV_2`$, April 2024), a comparative assessment of the CoDesign Tool and the VisitorBox: [form](https://github.com/dhilab-fi/codesign-tool-ch/blob/275dbaedea6a52c50bc0d1a6d8e55eff243dede5/current/test/EV2_Form.pdf) and [results](https://github.com/dhilab-fi/codesign-tool-ch/blob/275dbaedea6a52c50bc0d1a6d8e55eff243dede5/current/test/EV2_Results.csv).
+- **Evaluation 3** ($`EV_3`$, April 2025), assessment of the Disruption phase in the CoDesign Tool: [form](https://github.com/dhilab-fi/codesign-tool-ch/blob/275dbaedea6a52c50bc0d1a6d8e55eff243dede5/current/test/EV3_Form.pdf) and [results](https://github.com/dhilab-fi/codesign-tool-ch/blob/275dbaedea6a52c50bc0d1a6d8e55eff243dede5/current/test/EV3_Results.csv).
